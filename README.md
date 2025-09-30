@@ -3,9 +3,9 @@
 Machine learning classification of forest areas using satellite imagery.
 
 ## Results
-- 95.7% accuracy
-- 147.6 km² forest area mapped
-- Banke District, Nepal study area
+- 94% accuracy
+- 147.6 km² area mapped
+- Study Area: Buffer Zone of Banke National Park, Banke District, Nepal
 
 ## Run the Project
 1. Install: `pip install -r requirements.txt`
